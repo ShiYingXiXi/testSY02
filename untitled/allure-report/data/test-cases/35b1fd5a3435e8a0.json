@@ -1,0 +1,117 @@
+{
+  "uid" : "35b1fd5a3435e8a0",
+  "name" : "test_update",
+  "fullName" : "test_demo.TestDemo1#test_update",
+  "historyId" : "6b72fce80447d3449ef105a549fa7d09",
+  "time" : {
+    "start" : 1614160533774,
+    "stop" : 1614160533775,
+    "duration" : 1
+  },
+  "description" : "测试更新接口",
+  "descriptionHtml" : "<p>测试更新接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试更新接口",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1614160533774,
+        "stop" : 1614160533774,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2",
+      "time" : {
+        "start" : 1614160533775,
+        "stop" : 1614160533775,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6801ea0f1bbd9e67",
+      "name" : "stdout",
+      "source" : "6801ea0f1bbd9e67.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "商品管理模块"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "测试用例标题"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo1"
+  }, {
+    "name" : "host",
+    "value" : "shiyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "8547-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "http://testcase.html",
+    "url" : "http://testcase.html",
+    "type" : "test_case"
+  }, {
+    "name" : "http://bug.html",
+    "url" : "http://bug.html",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35b1fd5a3435e8a0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "26a8a97b56790d61",
+  "name" : "test_update",
+  "time" : {
+    "start" : 1614160620029,
+    "stop" : 1614160620031,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f351440e5f4d8f56",
+  "name" : "test_del",
+  "time" : {
+    "start" : 1614160620037,
+    "stop" : 1614160620037,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6e5fd25c06edbbfa",
+  "name" : "test_update",
+  "time" : {
+    "start" : 1614160620035,
+    "stop" : 1614160620035,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f2f2a935356896f4",
+  "name" : "test_del",
+  "time" : {
+    "start" : 1614160620033,
+    "stop" : 1614160620033,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

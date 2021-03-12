@@ -1,0 +1,132 @@
+{
+  "uid" : "74400df4529341ca",
+  "name" : "test_del",
+  "fullName" : "test_demo.TestDemo1#test_del",
+  "historyId" : "d39a8a014392cafe84103e1c7bc8ea88",
+  "time" : {
+    "start" : 1614160533777,
+    "stop" : 1614160533778,
+    "duration" : 1
+  },
+  "description" : "测试删除接口",
+  "descriptionHtml" : "<p>测试删除接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试删除接口",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1614160533778,
+        "stop" : 1614160533778,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2",
+      "time" : {
+        "start" : 1614160533778,
+        "stop" : 1614160533778,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "步骤3",
+      "time" : {
+        "start" : 1614160533778,
+        "stop" : 1614160533778,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "9a26fe16537eaa3a",
+      "name" : "stdout",
+      "source" : "9a26fe16537eaa3a.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "商品管理模块"
+  }, {
+    "name" : "story",
+    "value" : "测试用例标题1"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo1"
+  }, {
+    "name" : "host",
+    "value" : "shiyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "8547-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "http://testcase1.html",
+    "url" : "http://testcase1.html",
+    "type" : "test_case"
+  }, {
+    "name" : "http://bug1.html",
+    "url" : "http://bug1.html",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74400df4529341ca.json",
+  "parameterValues" : [ ]
+}
